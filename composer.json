@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
